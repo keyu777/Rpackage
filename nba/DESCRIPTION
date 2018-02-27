@@ -1,0 +1,13 @@
+Package: nba
+Title: An NBA Function Package
+Version: 0.0.0.9000
+Authors@R: person("Keyu", "Yang", email = "keyu-yang@outlook.com", role = c("aut", "cre"))
+Description: This package includes functions related to NBA data.
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: 
+dplyr
+purrr
